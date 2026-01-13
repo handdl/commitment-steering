@@ -7,7 +7,7 @@ P.S. Only after finishing did I realize that related ideas already existed (acti
 
 **Why is this interesting?** We need only synthetic data and ~1 hour of Kaggle T4 GPU. Despite this, it enables a direct and interpretable intervention inside an LLM’s internal activations. And a direction learned purely from math problems generalizes across domains! More interestingly, even when we inject a global “Yes” bias, the model may still **try to justify its answer**. One example argument that I saw is similar to: “The capital of a country is what its government recognizes as the capital. It is well known that Paris is the capital of France. But the government of Germany recognizes Paris as capital, therefore Paris is the capital of Germany.” The subtle **trick** (or at least it seems like this) - hiding that Germany recognizes Paris as the capital of France - is **AMAZING**.
 
-![[demo.png]]
+![An example of "thinking trick"](demo.png)
 
 # Pipeline overview
 
