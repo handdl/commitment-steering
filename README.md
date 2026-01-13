@@ -57,3 +57,5 @@ A companion research notebook with intermediate experiments and visualizations i
 `research/commitment-vector-for-llm-steering.ipynb`
 
 The main demo notebook intentionally omits these steps to remain lightweight and focused on usage.
+
+[Here](https://www.kaggle.com/code/sergeizinchenko/commitment-vector-for-llm-steering) is the link to Kaggle notebook with ALL intermediate artifacts.
